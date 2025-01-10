@@ -5,14 +5,13 @@
 
 - 🔭 I’m currently working on **Fullstack Development Projects**
 
-- 🌱 I’m currently learning **React, Node Js**
-
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **MERN Projects**
 
 - 📫 How to reach me **abhishekkumar81148@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/abhishek-kumar81148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-kumar81148" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
